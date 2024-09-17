@@ -1,6 +1,6 @@
 # User Management API
 
-This is a simple **User Management API** built using Spring Boot. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on users. This is my first project using Spring, and it's a great starting point to learn how to build RESTful APIs with Spring Boot.
+This is a simple **User Management API** built using Spring Boot. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on users. This is my first project using Spring.
 
 ## Features
 - **List Users**: Get all users.
